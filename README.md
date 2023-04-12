@@ -31,7 +31,7 @@ Create an Excel file (RecommendedTrades.xlsx) with the recommended trades.
 Format the Excel file with custom colors and fonts.
 
 # Usage
-Run the trading.py script.
+Run the main.py script.
 Enter the value of your portfolio when prompted.
 Wait for the script to complete.
 Check the RecommendedTrades.xlsx file for the recommended trades.
